@@ -1,0 +1,41 @@
+title = "James Martin"
+baseURL = "https://example.com/"
+theme = "resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Gainesville, FL"
+email = "inbox@jlm3.com"
+favicon = "/favicon.ico"
+firstName = "James"
+lastName = "Martin"
+#phone = "1-555-555-1234"
+profileImage = "img/jlm.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = false
+showSkills = true
+
+
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/edwardwebb/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/eddiewebb/"
+name = "GitHub"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

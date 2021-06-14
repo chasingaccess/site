@@ -1,0 +1,32 @@
+[
+  {
+      "grouping":"General",
+      "skills":[ "Microsoft Office suite","Adobe Photoshop",
+	  {"name":"FreeCAD","link":"https://www.freecadweb.org/"},
+	  {"name":"SketchUp","link":"https://www.sketchup.com/"},
+	   "LaTeX" ]
+  },{
+      "grouping":"Languages",
+      "skills":[ "R","Python","C++","JavaScript"]
+  },
+  {
+      "grouping":"GIS",
+      "skills":[ "ArcGIS suite",  
+	  {"name":"Google Earth Engine","link":"https://earthengine.google.com/"}, 
+ 
+      {"name":"ERDAS IMAGINE","link":"https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine"},
+	  
+	  {"name":"GeoDa","link":"https://geodacenter.github.io/"}
+	   ]
+	  
+	  
+  },
+    {
+      "grouping":"Systems, Web ",
+      "skills":[ "Linux", 
+	   {"name":"SLURM","link":"https://slurm.schedmd.com/overview.html"}, 
+	   {"name":"NGINX","link":"https://nginx.org/en/"}, 
+	   {"name":"Hugo","link":"https://gohugo.io/"}, 
+	    "HTML", "CSS" ]
+  }
+]

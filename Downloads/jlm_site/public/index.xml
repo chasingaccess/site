@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on James Martin</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on James Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A time series analysis of the ecologic relationship between acute and intermediate PM2.5 exposure duration on neonatal intensive care unit admissions in Florida</title>
+      <link>https://example.com/publications/pub1/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/pub1/</guid>
+      <description>We paired over one million birth records in the state of Florida with daily air pollution estimations and other demographic data to explore the influence of air pollution on neonatal intensive care unit admissions from 2012 to 2019 at the zip code level. Elevated air pollution was associated with an increase in admissions when accounting for confounding factors. As co-author my role involved acquiring and processing environmental data and estimating air pollution using a variety of methods.</description>
+    </item>
+    
+    <item>
+      <title>A time series analysis of the ecologic relationship between acute and intermediate PM2.5 exposure duration on neonatal intensive care unit admissions in Florida</title>
+      <link>https://example.com/test/pub1/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/test/pub1/</guid>
+      <description>We paired over one million birth records in the state of Florida with daily air pollution estimations and other demographic data to explore the influence of air pollution on neonatal intensive care unit admissions from 2012 to 2019 at the zip code level. Elevated air pollution was associated with an increase in admissions when accounting for confounding factors. As co-author my role involved acquiring and processing environmental data and estimating air pollution using a variety of methods.</description>
+    </item>
+    
+    <item>
+      <title>Household and climate factors influence Aedes aegypti risk in the arid city of Huaquillas, Ecuador</title>
+      <link>https://example.com/publications/pub3/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/pub3/</guid>
+      <description>The Aedes aegyptimosquito is a vector for Dengue fever, Chickgunya, and other viral diseases which are now endemic in Ecuador. This species thrives in high density urban environments and is highly adaptable. To understand the social and ecological factors that bring together humans and mosquitoes, we conducted a survey of households in Huaquillas regarding demographics, living conditions, and prevention strategies. Mosquitos were also collected from these households periodically using backpack aspirators.</description>
+    </item>
+    
+    <item>
+      <title>Household and climate factors influence Aedes aegypti risk in the arid city of Huaquillas, Ecuador</title>
+      <link>https://example.com/test/pub3/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/test/pub3/</guid>
+      <description>The Aedes aegyptimosquito is a vector for Dengue fever, Chickgunya, and other viral diseases which are now endemic in Ecuador. This species thrives in high density urban environments and is highly adaptable. To understand the social and ecological factors that bring together humans and mosquitoes, we conducted a survey of households in Huaquillas regarding demographics, living conditions, and prevention strategies. Mosquitos were also collected from these households periodically using backpack aspirators.</description>
+    </item>
+    
+    <item>
+      <title>UF MathGeo Model: A Mechanistic Approach Using Vector Traits and Georeferenced Climate Data</title>
+      <link>https://example.com/publications/pub2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/pub2/</guid>
+      <description>This mechanistic model was made for a competition held by the CDC’s Epidemic Prediction Initiative to forecast the probability of detecting two species of disease transmitting mosquito in a number of counties a month in advance. Our model combined data from laboratory studies on the effects of temperature on life traits as well as weather forecasts to predict presence. Our predictions were then validated against actual catch data from mosquito control agencies in participating counties.</description>
+    </item>
+    
+    <item>
+      <title>UF MathGeo Model: A Mechanistic Approach Using Vector Traits and Georeferenced Climate Data</title>
+      <link>https://example.com/test/pub2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/test/pub2/</guid>
+      <description>This mechanistic model was made for a competition held by the CDC’s Epidemic Prediction Initiative to forecast the probability of detecting two species of disease transmitting mosquito in a number of counties a month in advance. Our model combined data from laboratory studies on the effects of temperature on life traits as well as weather forecasts to predict presence. Our predictions were then validated against actual catch data from mosquito control agencies in participating counties.</description>
+    </item>
+    
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://example.com/projects/bosh-agents-copy/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/bosh-agents-copy/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://example.com/projects/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/bosh-agents/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://example.com/projects/creations/bosh-agents-copy/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/bosh-agents-copy/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://example.com/projects/creations/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/bosh-agents/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://example.com/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://example.com/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Atlassian Marketplace Plugins</title>
+      <link>https://example.com/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/marketplace/</guid>
+      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+    </item>
+    
+    <item>
+      <title>Atlassian Marketplace Plugins</title>
+      <link>https://example.com/projects/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/marketplace/</guid>
+      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+    </item>
+    
+    <item>
+      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
+      <link>https://example.com/projects/creations/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
+      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+    </item>
+    
+    <item>
+      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
+      <link>https://example.com/projects/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/docker-marketplace/</guid>
+      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

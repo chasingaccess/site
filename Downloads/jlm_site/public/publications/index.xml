@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on James Martin</title>
+    <link>https://example.com/publications/</link>
+    <description>Recent content in Publications on James Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A time series analysis of the ecologic relationship between acute and intermediate PM2.5 exposure duration on neonatal intensive care unit admissions in Florida</title>
+      <link>https://example.com/publications/pub1/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/pub1/</guid>
+      <description>We paired over one million birth records in the state of Florida with daily air pollution estimations and other demographic data to explore the influence of air pollution on neonatal intensive care unit admissions from 2012 to 2019 at the zip code level. Elevated air pollution was associated with an increase in admissions when accounting for confounding factors. As co-author my role involved acquiring and processing environmental data and estimating air pollution using a variety of methods.</description>
+    </item>
+    
+    <item>
+      <title>Household and climate factors influence Aedes aegypti risk in the arid city of Huaquillas, Ecuador</title>
+      <link>https://example.com/publications/pub3/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/pub3/</guid>
+      <description>The Aedes aegyptimosquito is a vector for Dengue fever, Chickgunya, and other viral diseases which are now endemic in Ecuador. This species thrives in high density urban environments and is highly adaptable. To understand the social and ecological factors that bring together humans and mosquitoes, we conducted a survey of households in Huaquillas regarding demographics, living conditions, and prevention strategies. Mosquitos were also collected from these households periodically using backpack aspirators.</description>
+    </item>
+    
+    <item>
+      <title>UF MathGeo Model: A Mechanistic Approach Using Vector Traits and Georeferenced Climate Data</title>
+      <link>https://example.com/publications/pub2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/pub2/</guid>
+      <description>This mechanistic model was made for a competition held by the CDC’s Epidemic Prediction Initiative to forecast the probability of detecting two species of disease transmitting mosquito in a number of counties a month in advance. Our model combined data from laboratory studies on the effects of temperature on life traits as well as weather forecasts to predict presence. Our predictions were then validated against actual catch data from mosquito control agencies in participating counties.</description>
+    </item>
+    
+  </channel>
+</rss>

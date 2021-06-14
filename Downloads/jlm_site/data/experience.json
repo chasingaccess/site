@@ -1,0 +1,27 @@
+[
+    {
+        "role":"Research Assistant",
+        "company":   "[Global & Environmental Health Lab](https://cokerlab.com)" ,
+        "summary":"My main tasks involve acquiring and processing large environmental datasets, often drawing upon my GIS abilities. I’ve also implemented machine learning models using ensemble methods to forecast environmental hazards like ambient air pollution. Our work is mainly situated within environmental health but we often collaborate outside this field. Projects I’ve worked on include investigating the effects of air pollution on neonatal intensive care unit admissions, exploring the social and environmental dimensions of COVID-19 related mortality in Northern Italy, and characterizing the occupational health challenges of gulf coast seafood workers. ",
+        "range":"2020 - present "
+    },
+    {
+        "role":"Graduate Research Assistant",
+        "company": "[Quantitative Disease Ecology & Conservation Lab](https://sadieryan.net)" , 
+        "summary":"I carried out a social-ecological study of Aedes aegypti risk in southern coastal Ecuador which required extensive data cleaning and analysis. I used hierarchical models within a multi-model, information criterion approach to investigate risk factors. Other projects I worked also concerned Ecuador and arboviral disease. These include identifying spatial-temporal clusters of Dengue fever using point pattern analyses and using health access models to simulate alternative vector control regiments.  ",
+        "range":"2017 - 2019"
+    },
+    {
+        "role":"Intern",
+        "company": "[Anastasia Mosquito Control District ](https://amcdsjc.org/)" , 
+        "summary":"During my internship I managed weekly field activities, collecting mosquito samples at over one hundred sites in suburban St. Augustine to test the novel autocidal gravid ovitrap. I also created and managed a GIS database for planning purposes and helped maintain mosquito colonies in the lab.",
+        "range":"2017"
+    },
+    {
+        "role":"Undergraduate Research Assistant", 
+        "company": "[Quantitative Ecological Dynamics Lab](http://leah.johnson-gramacy.com/QED/)" , 
+        "summary":"I was involved in a project which aimed to forecast the future range of African Trypanosomiasis under future climate conditions using a mechanistic model based on the biology of the Tsetse fly vector. I searched the literature for laboratory studies to inform model parameters and also wrote code to process these data and fit non-linear functions to them. The Quantitative Dynamics Lab was originally based at USF before moving to Virginia Tech. ",
+        "range":"2015 - 2017"
+    }
+]
+  
